@@ -1,3 +1,5 @@
+package lesson_03;
+
 public class Task2Variables {
     public static void main(String[] args) {
         byte myByte1 = 127;
