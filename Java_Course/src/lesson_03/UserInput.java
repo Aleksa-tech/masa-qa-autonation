@@ -10,7 +10,7 @@ public class UserInput {
         int age;
 
         Scanner input = new Scanner(System.in);
-//        input.useLocale(Locale.US); // Вводим для того, чтобы вводить double через точку, а не через зпаятую
+//        input.useLocale(Locale.US); // Вводим для того, чтобы вводить double через точку, а не через запятую
 
 //      Блочный комментарий
 /*      System.out.println("Please enter your name: ");
@@ -29,3 +29,4 @@ public class UserInput {
 
     }
 }
+    
